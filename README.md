@@ -12,11 +12,11 @@ I am a Master’s student in **Quantum Science and Technology** at **Friedrich S
   
 ## 💼 Experience
 
-During my student internship at Friedrich Schiller University Jena, 
+During my student internship at Friedrich Schiller University Jena, I
 
 - Simulated the Deutsch–Jozsa quantum algorithm in Python
-- Modelled localized Rx, Ry, and Rz rotation errors
-- Investigated depolarizing noise at four circuit stages
+- Modelled and investigated localized rotation errors
+-  Modelled and investigated depolarizing noise 
 - Analysed circuit sensitivity, robustness, and algorithm performance
 
   
