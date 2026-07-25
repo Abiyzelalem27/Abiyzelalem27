@@ -1,5 +1,6 @@
 
 Hi, I’m Abiy Zelalem Tegegne 👋
+
 I am a Master’s student in Quantum Science and Technology at Friedrich Schiller University Jena and a Qiskit Advocate at IBM Quantum.
 
 🔬 Research Interests
@@ -9,6 +10,7 @@ I am a Master’s student in Quantum Science and Technology at Friedrich Schille
 - Quantum error correction
   
 💼 Experience
+
 During my student internship at Friedrich Schiller University Jena,I
 
 - Simulated the Deutsch–Jozsa quantum algorithm in Python
