@@ -256,8 +256,8 @@ I am particularly interested in connecting theoretical models, numerical simulat
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abiyzelalem27&theme=tokyonight"
-    alt="Abiy's GitHub profile summary"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:9B7C88,100:7471B5&height=120&section=footer"
+    alt="Decorative wave"
     width="100%"
   />
 </p>
