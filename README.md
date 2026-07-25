@@ -243,20 +243,21 @@ I am particularly interested in connecting theoretical models, numerical simulat
 * **GitHub:** [github.com/Abiyzelalem27](https://github.com/Abiyzelalem27)
 * **Email:** [abiyzelalem8@gmail.com](mailto:abiyzelalem8@gmail.com)
   
-## Quick Overview 📈
+<h2 align="center">Quick Overview 📈</h2>
+
+<hr>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Abiyzelalem27&theme=radical&hide_border=true&border_radius=6"
+    src="https://streak-stats.demolab.com?user=Abiyzelalem27&theme=radical&hide_border=true"
     alt="Abiy's GitHub streak"
-    width="500"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Abiyzelalem27&bg_color=0D1117&color=FFFFFF&line=A78BFA&point=FF6B9D&area=true&area_color=8B5CF6&hide_border=true&hide_title=true"
-    alt="Abiy's GitHub activity graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abiyzelalem27&theme=tokyonight"
+    alt="Abiy's GitHub profile summary"
     width="100%"
   />
 </p>
