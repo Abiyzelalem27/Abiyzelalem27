@@ -9,32 +9,10 @@ I am a Master’s student in **Quantum Science and Technology** at **Friedrich S
 - Quantum algorithms 
 - Quantum noise modelling 
 - Quantum error correction
-  
-## 💼 Experience
-
-During my student internship at Friedrich Schiller University Jena, I
-
-- Simulated the Deutsch–Jozsa quantum algorithm in Python
-- Modelled and investigated localized rotation errors
--  Modelled and investigated depolarizing noise 
-- Analysed circuit sensitivity, robustness, and algorithm performance
-
-  
-## 🛠️ Skills
-
-**Programming:** Python, Qiskit
-
-**Quantum Computing:** quantum algorithms, noise modelling, and error correction
-
-**Numerical Physics:** Sparse linear algebra, Lanczos methods, Lindblad equations, Monte Carlo methods, and quantum dynamics
-
-**Experimental Skills:** SPDC, photon counting, interferometry, BB84, Bell tests, quantum sensing, and state tomography
-
 
 ## 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/abiy-tegegne](https://linkedin.com/in/abiy-tegegne)
-- **GitHub:** [github.com/Abiyzelalem27](https://github.com/Abiyzelalem27)
 - **Email:** [abiyzelalem8@gmail.com](mailto:abiyzelalem8@gmail.com)
 
 
