@@ -1,4 +1,4 @@
-# Hi, I’m Abiy Zelalem Tegegne 👋
+#  I’m Abiy Zelalem Tegegne 
 
 I am a Master’s student in Quantum Science and Technology at Friedrich Schiller University Jena and a Qiskit Advocate at IBM Quantum.
 
